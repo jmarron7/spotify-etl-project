@@ -1,0 +1,1 @@
+# Spotify API "Top 50 - Global" Playlist ETL Project on AWS
